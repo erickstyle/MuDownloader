@@ -1,0 +1,18 @@
+F:\Projects VS2015\downloader-Foxx\Launcher v2\bin\Release\Downloader.exe
+F:\Projects VS2015\downloader-Foxx\Launcher v2\bin\Release\Downloader.pdb
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Release\Launcher_v2.MuDownloader.resources
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Release\Launcher_v2.Properties.Resources.resources
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Release\Downloader.csproj.GenerateResource.Cache
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Release\Downloader.exe
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Release\Downloader.pdb
+F:\MuDownloader\Launcher v2\obj\Release\Downloader.csprojResolveAssemblyReference.cache
+F:\MuDownloader\Launcher v2\obj\Release\MuDownloader.MuDownloader.resources
+F:\MuDownloader\Launcher v2\obj\Release\MuDownloader.Properties.Resources.resources
+F:\MuDownloader\Launcher v2\obj\Release\Downloader.csproj.GenerateResource.Cache
+F:\MuDownloader\MuDownloader\bin\Release\Downloader.exe
+F:\MuDownloader\MuDownloader\bin\Release\Downloader.pdb
+F:\MuDownloader\MuDownloader\obj\Release\MuDownloader.MuDownloader.resources
+F:\MuDownloader\MuDownloader\obj\Release\MuDownloader.Properties.Resources.resources
+F:\MuDownloader\MuDownloader\obj\Release\Downloader.csproj.GenerateResource.Cache
+F:\MuDownloader\MuDownloader\obj\Release\Downloader.exe
+F:\MuDownloader\MuDownloader\obj\Release\Downloader.pdb

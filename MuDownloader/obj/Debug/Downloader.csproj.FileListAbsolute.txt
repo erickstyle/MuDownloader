@@ -1,0 +1,17 @@
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Debug\Launcher_v2.Form1.resources
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Debug\Launcher_v2.Properties.Resources.resources
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Debug\Downloader.csproj.GenerateResource.Cache
+F:\Projects VS2015\downloader-Foxx\Launcher v2\bin\Debug\Downloader.exe
+F:\Projects VS2015\downloader-Foxx\Launcher v2\bin\Debug\Downloader.pdb
+F:\Projects VS2015\downloader-Foxx\Launcher v2\bin\Debug\Ionic.Zip.dll
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Debug\Downloader.exe
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Debug\Downloader.pdb
+F:\Projects VS2015\downloader-Foxx\Launcher v2\obj\Debug\Downloader.csprojResolveAssemblyReference.cache
+F:\MuDownloader\MuDownloader\obj\Debug\Downloader.exe
+F:\MuDownloader\MuDownloader\obj\Debug\Downloader.pdb
+F:\MuDownloader\MuDownloader\bin\Debug\Downloader.exe
+F:\MuDownloader\MuDownloader\bin\Debug\Downloader.pdb
+F:\MuDownloader\MuDownloader\obj\Debug\Downloader.csprojResolveAssemblyReference.cache
+F:\MuDownloader\MuDownloader\obj\Debug\MuDownloader.MuDownloader.resources
+F:\MuDownloader\MuDownloader\obj\Debug\MuDownloader.Properties.Resources.resources
+F:\MuDownloader\MuDownloader\obj\Debug\Downloader.csproj.GenerateResource.Cache
