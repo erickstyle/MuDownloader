@@ -2,7 +2,7 @@
 
 Application developed in C#
 
-More information -> https://twitter.com/JairoBarretoo
+More information -> http://perfectzone.com.br/showthread.php?t=7506&p=31949#post31949
 
 System Requirements
  * Visual Studio 2013 or 2015
@@ -12,5 +12,5 @@ Print
  * https://prnt.sc/ilcocp 
 
 Credits
- * JairoBarreto
+ * JairoBarreto (https://twitter.com/JairoBarretoo)
  * Montesboogey
