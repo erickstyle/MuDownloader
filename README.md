@@ -2,6 +2,7 @@
 
 Application developed in C#
 
+More information -> https://twitter.com/JairoBarretoo
 
 System Requirements
  * Visual Studio 2013 or 2015
@@ -11,6 +12,5 @@ Print
  * https://prnt.sc/ilcocp 
 
 Credits
- * Source Code: JairoBarreto
- * Photoshop Layout: JairoBarreto
- * Algorithm Download: Montesboogey
+ * JairoBarreto
+ * Montesboogey
