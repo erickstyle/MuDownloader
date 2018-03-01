@@ -1,2 +1,5 @@
-# MuDownloader
-Mu Client Downloader
+# Mu Downloader
+
+Credits
+ * Base Code: Montesboogey
+ * New Functions: Jairo Barreto
