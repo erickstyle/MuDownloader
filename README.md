@@ -1,5 +1,9 @@
 # Mu Downloader
 
+System Requirements
+ * Visuual Studio 2013
+ * NetFramework 4+
+
 Credits
- * Base Code: Montesboogey
- * New Functions: Jairo Barreto
+ * Source Code: Jairo Barreto
+ * Algorithm Download: Montesboogey
