@@ -9,7 +9,7 @@ System Requirements
  * NetFramework 4+
 
 Print
- * https://prnt.sc/ilcocp 
+ * https://prnt.sc/ilemjf
 
 Credits
  * JairoBarreto (https://twitter.com/JairoBarretoo)
