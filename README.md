@@ -2,7 +2,7 @@
 
 Application developed in C#
 
-More information -> http://perfectzone.com.br/showthread.php?t=7506&p=31949#post31949
+More information -> https://goo.gl/CWzWQE
 
 System Requirements
  * Visual Studio 2013 or 2015
