@@ -30,7 +30,7 @@ namespace MuDownloader
         [DllImportAttribute("user32.dll")]
         public static extern bool ReleaseCapture();
 
-        string serverHost = "http://www.YouHost.com/downloader/";
+        string serverHost = "http://localhost/downloader/";
         string fileClienteCompleto;
         string fileClienteNoSound;
         string fileClientePatch;
