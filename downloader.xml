@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Downloader>
+
+  <ClienteCompleto>
+    <file>ClienteCompleto.txt</file>
+    <tamanho>600 MB</tamanho>
+  </ClienteCompleto>
+
+
+  <ClienteNoSound>
+    <file>ClienteNoSound.txt</file>
+    <tamanho>400 MB</tamanho>
+  </ClienteNoSound>
+
+
+  <ClientePatch>
+    <file>ClientePatch.txt</file>
+    <tamanho>100 MB</tamanho>
+  </ClientePatch>
+
+</Downloader>
